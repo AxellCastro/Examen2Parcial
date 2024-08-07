@@ -1,0 +1,32 @@
+<Comidas>
+    <comida>
+        <titulo>Plato 1</titulo>
+        <imagen>assets/platouno.jpg</imagen>
+        <precio>10</precio>
+    </comida>
+    <comida>
+        <titulo>Plato 2</titulo>
+        <imagen>assets/platodos.jpg</imagen>
+        <precio>8</precio>
+    </comida>
+    <comida>
+        <titulo>Plato 3</titulo>
+        <imagen>assets/platotres.jpg</imagen>
+        <precio>7</precio>
+    </comida>
+    <comida>
+        <titulo>Plato 4</titulo>
+        <imagen>assets/platocuatro.jpg</imagen>
+        <precio>4</precio>
+    </comida>
+    <comida>
+        <titulo>Plato 5</titulo>
+        <imagen>assets/platocinco.jpg</imagen>
+        <precio>5</precio>
+    </comida>
+    <comida>
+        <titulo>Plato 6</titulo>
+        <imagen>assets/platoseis.jpg</imagen>
+        <precio>8</precio>
+    </comida>
+</Comidas>
